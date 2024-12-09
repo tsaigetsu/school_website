@@ -1,0 +1,7 @@
+@import url(./reset.css);
+@import url(../../components/Header/Header.css);
+
+#root {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
